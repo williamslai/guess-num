@@ -12,6 +12,6 @@ while True:
 		print('你猜對了')
 		break
 	elif num > r:
-			print('比答案大')
+		print('比答案大')
 	elif num < r:
-			print('比答案小')
+		print('比答案小')
